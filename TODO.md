@@ -11,7 +11,6 @@ http.createServer(handler).listen(7777, function(){
 	console.log("Server is listening at port 7777");
 });
 
-
 Issues:-
 
 	1) This code works but it's bulky and buffers up the entire data.txt file into memory for every request before
