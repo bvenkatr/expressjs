@@ -22,10 +22,6 @@ Issues:-
 
 	Use nodejs streams to solve the above problem
 
-Solved:-
-
-	Issues in release .0.01 has been solved
-
 Requirements:-
 
 	1) compress it before sending to the clinet
