@@ -7,7 +7,7 @@ let express = require('express') // This will return express function instance
 
 let app = express(); // This will return express app instance
 
-let port = process.argv[2] || 1234;
+let port = process.argv[2] || 7001;
 
 // This is middleware used to server static file
 //app.use(express.static(process.argv[3]||path.join(__dirname, 'public')));
